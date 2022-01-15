@@ -1,0 +1,2 @@
+# FirebaseAuthenticationWithFirestore
+Authentication using Firebase with firestore
