@@ -38,6 +38,6 @@ Authentication using Firebase, Flutter-powered Google and Android Studio editor.
       - [Example](https://youtu.be/ugeFimMWi1U)
 
 **Evidence**
-Videos : [Link](https://youtu.be/ugeFimMWi1U)
-Android APK :   [Link](https://youtu.be/ugeFimMWi1U)
+Videos : [Link](https://github.com/saprahits/FirebaseAuthenticationWithFirestore/blob/develop/evidence/screen-output.mp4)
+Android APK :   [Link](https://github.com/saprahits/FirebaseAuthenticationWithFirestore/blob/develop/evidence/devs-tree.apk)
   
